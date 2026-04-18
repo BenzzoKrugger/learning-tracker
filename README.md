@@ -4,7 +4,7 @@
 
 **Learning logs:**
 
-- [100 Days of Code](doplnit URL)
+- [Weakly Recap](https://github.com/BenzzoKrugger/learning-tracker/learning-logs)
 
 ## Technical Skills
 
@@ -27,7 +27,7 @@ _V procesu_
 
 **Preview:** https://benzzo.cz
 
-Stránka postavená na Astru, Tailwindcss, deploy přes Cloudflare Pages. Založeno na 'zelené louce'.
+Stránka postavená na Astru, Tailwindcss, deploy přes Cloudflare Pages. 'build from scratch'
 
 **Použité dovednosti:** Astro, JavaScript, Tailwindcss, Git & GitHub.
 
@@ -37,7 +37,7 @@ Stránka postavená na Astru, Tailwindcss, deploy přes Cloudflare Pages. Založ
 
 ### The Odin Project
 
-Postupuji podle: [Full Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript) kurz. [The Odin Project](https://www.theodinproject.com/about).
+Postupuji podle: [Full Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript) kurz. [The Odin Project](https://www.theodinproject.com).
 
 #### [Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)
 
@@ -45,14 +45,14 @@ Postupuji podle: [Full Stack JavaScript](https://www.theodinproject.com/paths/fu
 - [ ] Prerequisites
 - [ ] Git Basics
 - [ ] HTML Foundations
-  - [ ] Project: [Recipes](https://github.com/SabineEmden/odin-recipes)
+  - [ ] Project: [Recipes](url)
 - [ ] CSS Foundations
 - [ ] Flexbox
-  - [ ] Project: [Landing Page](https://github.com/SabineEmden/odin-landing-page)
+  - [ ] Project: [Landing Page](url)
 - [ ] JavaScript Basics
-  - [ ] Project: [Rock Paper Scissors](https://github.com/SabineEmden/rock-paper-scissors)
-  - [ ] Project: [Etch-a-Sketch](https://github.com/SabineEmden/etch-a-sketch)
-  - [ ] Project: [Calculator](https://github.com/SabineEmden/calculator)
+  - [ ] Project: [Rock Paper Scissors](url)
+  - [ ] Project: [Etch-a-Sketch](url)
+  - [ ] Project: [Calculator](url)
 - [ ] Conclusion
 
 #### [Intermediate HTML and CSS](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css)
@@ -60,15 +60,15 @@ Postupuji podle: [Full Stack JavaScript](https://www.theodinproject.com/paths/fu
 - [ ] Intermediate HTML Concepts
 - [ ] Intermediate CSS Concepts
 - [ ] Forms
-  - [ ] Project: [Sign-up Form](https://github.com/SabineEmden/odin-sign-up-form)
+  - [ ] Project: [Sign-up Form](url)
 - [ ] Grid
-  - [ ] Project: [Admin Dashboard](https://github.com/SabineEmden/odin-admin-dashboard)
+  - [ ] Project: [Admin Dashboard](url)
 
 #### [JavaScript](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css)
 
 - [ ] Introduction
 - [ ] Organizing Your JavaScript Code
-  - [ ] Project: [Library](https://github.com/SabineEmden/odin-library)
+  - [ ] Project: [Library](url)
   - [ ] Project: Tic Tac Toe
   - [ ] Project: Restaurant Page
   - [ ] Project: Todo List
@@ -148,17 +148,17 @@ Postupuji podle [Frontend Mentor](https://www.frontendmentor.io/) k vytvoření 
 
 #### [Getting started on Frontend Mentor](https://www.frontendmentor.io/learning-paths/getting-started-on-frontend-mentor-XJhRWRREZd)
 
-- [ ] Challenge: [QR code component](https://github.com/SabineEmden/qr-code-component)
-- [ ] Challenge: [Blog preview card](https://github.com/SabineEmden/blog-preview-card)
-- [ ] Challenge: [Social links profile](https://github.com/SabineEmden/fm-social-links-profile)
-- [ ] Challenge: [Recipe page](https://github.com/SabineEmden/fm-recipe-page)
+- [ ] Challenge: [QR code component](url)
+- [ ] Challenge: [Blog preview card](url)
+- [ ] Challenge: [Social links profile](url)
+- [ ] Challenge: [Recipe page](url)
 
 #### [Building responsive layouts](https://www.frontendmentor.io/learning-paths/building-responsive-layouts--z1qCXVqkD)
 
-- [ ] Challenge: [Product preview card component](https://github.com/SabineEmden/fm-product-preview-card-component)
-- [ ] Challenge: [Four card feature section](https://github.com/SabineEmden/fm-four-card-feature-section)
-- [ ] Challenge: [Testimonial grid section](https://github.com/SabineEmden/fm-testimonials-grit-section)
-- [ ] Challenge: [Meet landing page](https://github.com/SabineEmden/fm-meet-landing-page)
+- [ ] Challenge: [Product preview card component](url)
+- [ ] Challenge: [Four card feature section](url)
+- [ ] Challenge: [Testimonial grid section](url)
+- [ ] Challenge: [Meet landing page](urlhttps://github.com/SabineEmden/fm-meet-landing-page)
 
 #### [JavaScript fundamentals](https://www.frontendmentor.io/learning-paths/javascript-fundamentals-oR7g6-mTZ-)
 
@@ -171,11 +171,11 @@ Postupuji podle [Frontend Mentor](https://www.frontendmentor.io/) k vytvoření 
 
 #### Další Mentor Challenges
 
-- [ ] Challenge: [3-column preview card component](https://github.com/SabineEmden/fm-3-column-preview-card-component)
-- [ ] Challenge: [Single price grid component](https://github.com/SabineEmden/fm-single-price-grid-component)
-- [ ] Challenge: [Order summary card](https://github.com/SabineEmden/fm-order-summary-component)
-- [ ] Challenge: [Stats preview card component](https://github.com/SabineEmden/fm-stats-preview-card-component)
-- [ ] Challenge: [Tech book club landing page](https://github.com/SabineEmden/fm-tech-book-landing-page)
+- [ ] Challenge: [3-column preview card component](url)
+- [ ] Challenge: [Single price grid component](url)
+- [ ] Challenge: [Order summary card](url)
+- [ ] Challenge: [Stats preview card component](url)
+- [ ] Challenge: [Tech book club landing page](url)
 
 ## Poznámka
 
