@@ -4,7 +4,7 @@
 
 **Learning logs:**
 
-- [Weakly Recap](https://github.com/BenzzoKrugger/learning-tracker/learning-logs)
+- [Weakly Recap](https://github.com/BenzzoKrugger/learning-tracker/blob/main/learning-logs/2026-logs.md)
 
 ## Technical Skills
 
