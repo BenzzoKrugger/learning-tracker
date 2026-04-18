@@ -41,11 +41,11 @@ Postupuji podle: [Full Stack JavaScript](https://www.theodinproject.com/paths/fu
 
 #### [Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)
 
-- [ ] Introduction
-- [ ] Prerequisites
-- [ ] Git Basics
-- [ ] HTML Foundations
-  - [ ] Project: [Recipes](url)
+- [x] Introduction
+- [x] Prerequisites
+- [x] Git Basics
+- [x] HTML Foundations
+  - [x] Project: [Recipes](https://github.com/BenzzoKrugger/odin-recipes)
 - [ ] CSS Foundations
 - [ ] Flexbox
   - [ ] Project: [Landing Page](url)
