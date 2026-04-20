@@ -1,6 +1,6 @@
 # Learning Tracker
 
-📚 Trecking osobních tech dovedností, osobních projektů, tutoriálů a kódovacích challenges. Cíl: naučit se full-stack development, sdílet postup a motivace postupovat dál
+📚 Tracking my technical skills, personal projects, coursework, and coding challenges for learning web development to plan, document, and share my progress. Gaol: learn full-stack development, share progress and also motivation to step further
 
 **Learning logs:**
 
@@ -19,25 +19,25 @@
 | Git & GitHub          | :bulb:                      |
 
 
-## Osobní projekty
+## Personal projects
 
-### Osobní webová stránka
+### Personal website
 
-_V procesu_
+_In progress_
 
 **Preview:** https://benzzo.cz
 
-Stránka postavená na Astru, Tailwindcss, deploy přes Cloudflare Pages. 'build from scratch'
+Web page build on Astro, Tailwindcss, deploy Cloudflare Pages, Build from scratch
 
-**Použité dovednosti:** Astro, JavaScript, Tailwindcss, Git & GitHub.
+**Skills used:** Astro, JavaScript, Tailwindcss, Git & GitHub.
 
 [GitHub repo](doplnit URL)
 
-## Tutoriály
+## Tutorials
 
 ### The Odin Project
 
-Postupuji podle: [Full Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript) kurz. [The Odin Project](https://www.theodinproject.com).
+I am following the [Full Stack JavaScript](https://www.theodinproject.com/paths/full-stack-javascript) learning path [The Odin Project](https://www.theodinproject.com).
 
 #### [Foundations](https://www.theodinproject.com/paths/foundations/courses/foundations)
 
@@ -46,8 +46,8 @@ Postupuji podle: [Full Stack JavaScript](https://www.theodinproject.com/paths/fu
 - [x] Git Basics
 - [x] HTML Foundations
   - [x] Project: [Recipes](https://github.com/BenzzoKrugger/odin-recipes)
-- [ ] CSS Foundations
-- [ ] Flexbox
+- [x] CSS Foundations
+- [x] Flexbox
   - [ ] Project: [Landing Page](url)
 - [ ] JavaScript Basics
   - [ ] Project: [Rock Paper Scissors](url)
@@ -133,18 +133,12 @@ Postupuji podle: [Full Stack JavaScript](https://www.theodinproject.com/paths/fu
 - [ ] FINAL PROJECT
   - [ ] Project: Odin-Book
 
-#### [Getting Hired](https://www.theodinproject.com/paths/full-stack-javascript/courses/getting-hired)
 
-- [ ] Preparing for Your Job Search
-  - [ ] Project: Building Your Personal Website
-- [ ] Applying to and Interviewing for Jobs
-  - [ ] Project: Building Your
-
-## Kódovací challenge
+## Coding Challenges
 
 ### Frontend Mentor
 
-Postupuji podle [Frontend Mentor](https://www.frontendmentor.io/) k vytvoření dodatečných projektů
+I am following the [Frontend Mentor](https://www.frontendmentor.io/) to build additional projects.
 
 #### [Getting started on Frontend Mentor](https://www.frontendmentor.io/learning-paths/getting-started-on-frontend-mentor-XJhRWRREZd)
 
@@ -169,7 +163,7 @@ Postupuji podle [Frontend Mentor](https://www.frontendmentor.io/) k vytvoření 
 - [ ] Challenge: Password generator app
 - [ ] Challenge: Frontend Quiz app
 
-#### Další Mentor Challenges
+#### Other Frontend Mentor Challenges
 
 - [ ] Challenge: [3-column preview card component](url)
 - [ ] Challenge: [Single price grid component](url)
@@ -177,7 +171,7 @@ Postupuji podle [Frontend Mentor](https://www.frontendmentor.io/) k vytvoření 
 - [ ] Challenge: [Stats preview card component](url)
 - [ ] Challenge: [Tech book club landing page](url)
 
-## Poznámka
+## Note
 
-Tento projekt je inspirován Syk Houdeib [Learning Tracker](https://github.com/Syknapse/My-Learning-Tracker), od Alexander Kallaway [#100DaysOfCode Challenge](https://github.com/kallaway/100-days-of-code), a Shovan Chatterjee [Full Stack Web Developer Path](https://github.com/shovanch/fullstack-web-developer-path).
+his project is inspired by Syk Houdeib's [Learning Tracker](https://github.com/Syknapse/My-Learning-Tracker), by Alexander Kallaway's [#100DaysOfCode Challenge](https://github.com/kallaway/100-days-of-code)and by Shovan Chatterjee's[Full Stack Web Developer Path](https://github.com/shovanch/fullstack-web-developer-path).
 
