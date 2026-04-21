@@ -48,7 +48,7 @@ I am following the [Full Stack JavaScript](https://www.theodinproject.com/paths/
   - [x] Project: [Recipes](https://github.com/BenzzoKrugger/odin-recipes)
 - [x] CSS Foundations
 - [x] Flexbox
-  - [ ] Project: [Landing Page](url)
+  - [x] Project: [Landing Page](https://benzzokrugger.github.io/odin-landing-page/)
 - [ ] JavaScript Basics
   - [ ] Project: [Rock Paper Scissors](url)
   - [ ] Project: [Etch-a-Sketch](url)
