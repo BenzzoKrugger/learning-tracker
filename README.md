@@ -10,7 +10,7 @@
 
 | Skill                 | Level                       |
 | --------------------- | --------------------------- |
-| HTML                  | :bulb:                      |
+| HTML                  | :bulb: :bulb:               |
 | Tailwindcss           | :bulb:                      |
 | JavaScript            | :bulb:                      |
 | Astro                 | :bulb:                      |
@@ -48,7 +48,7 @@ I am following the [Full Stack JavaScript](https://www.theodinproject.com/paths/
   - [x] Project: [Recipes](https://github.com/BenzzoKrugger/odin-recipes)
 - [x] CSS Foundations
 - [x] Flexbox
-  - [x] Project: [Landing Page](https://benzzokrugger.github.io/odin-landing-page/)
+  - [x] Project: [Landing Page](https://github.com/BenzzoKrugger/odin-landing-page)
 - [ ] JavaScript Basics
   - [ ] Project: [Rock Paper Scissors](url)
   - [ ] Project: [Etch-a-Sketch](url)
@@ -142,8 +142,8 @@ I am following the [Frontend Mentor](https://www.frontendmentor.io/) to build ad
 
 #### [Getting started on Frontend Mentor](https://www.frontendmentor.io/learning-paths/getting-started-on-frontend-mentor-XJhRWRREZd)
 
-- [ ] Challenge: [QR code component](url)
-- [ ] Challenge: [Blog preview card](url)
+- [x] Challenge: [QR code component](https://github.com/BenzzoKrugger/fm-qr-component)
+- [x] Challenge: [Blog preview card](https://github.com/BenzzoKrugger/fm-block-preview-card)
 - [ ] Challenge: [Social links profile](url)
 - [ ] Challenge: [Recipe page](url)
 
