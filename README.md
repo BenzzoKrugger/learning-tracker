@@ -25,13 +25,13 @@
 
 _In progress_
 
-**Preview:** https://benzzo.cz
+**Preview:** https://www.benzzo.cz
 
 Web page build on Astro, Tailwindcss, deploy Cloudflare Pages, Build from scratch
 
 **Skills used:** Astro, JavaScript, Tailwindcss, Git & GitHub.
 
-[GitHub repo](doplnit URL)
+[GitHub repo](https://github.com/BenzzoKrugger/benzzo-lab)
 
 ## Tutorials
 
@@ -50,7 +50,7 @@ I am following the [Full Stack JavaScript](https://www.theodinproject.com/paths/
 - [x] Flexbox
   - [x] Project: [Landing Page](https://github.com/BenzzoKrugger/odin-landing-page)
 - [ ] JavaScript Basics
-  - [ ] Project: [Rock Paper Scissors](url)
+  - [x] Project: [Rock Paper Scissors](https://github.com/BenzzoKrugger/odin-rock-paper-scissors)
   - [ ] Project: [Etch-a-Sketch](url)
   - [ ] Project: [Calculator](url)
 - [ ] Conclusion
@@ -144,8 +144,8 @@ I am following the [Frontend Mentor](https://www.frontendmentor.io/) to build ad
 
 - [x] Challenge: [QR code component](https://github.com/BenzzoKrugger/fm-qr-component)
 - [x] Challenge: [Blog preview card](https://github.com/BenzzoKrugger/fm-block-preview-card)
-- [ ] Challenge: [Social links profile](url)
-- [ ] Challenge: [Recipe page](url)
+- [x] Challenge: [Social links profile](https://github.com/BenzzoKrugger/fm-social-links-profile)
+- [x] Challenge: [Recipe page](https://github.com/BenzzoKrugger/fm-recipe-page)
 
 #### [Building responsive layouts](https://www.frontendmentor.io/learning-paths/building-responsive-layouts--z1qCXVqkD)
 
