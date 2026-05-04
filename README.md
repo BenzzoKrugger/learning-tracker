@@ -51,7 +51,7 @@ I am following the [Full Stack JavaScript](https://www.theodinproject.com/paths/
   - [x] Project: [Landing Page](https://github.com/BenzzoKrugger/odin-landing-page)
 - [ ] JavaScript Basics
   - [x] Project: [Rock Paper Scissors](https://github.com/BenzzoKrugger/odin-rock-paper-scissors)
-  - [ ] Project: [Etch-a-Sketch](url)
+  - [x] Project: [Etch-a-Sketch](https://github.com/BenzzoKrugger/odin-etch-a-sketch)
   - [ ] Project: [Calculator](url)
 - [ ] Conclusion
 
