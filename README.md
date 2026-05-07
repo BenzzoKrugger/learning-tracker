@@ -11,10 +11,11 @@
 | Skill                 | Level                       |
 | --------------------- | --------------------------- |
 | HTML                  | :bulb: :bulb:               |
-| Tailwindcss           | :bulb:                      |
-| JavaScript            | :bulb:                      |
-| Astro                 | :bulb:                      |
-| React                 | :bulb:                      |
+| Astro                 |                             |
+| Alpine                |                             |
+| Python                | :bulb:                      |
+| HTMX                  |                             |
+| FastAPI               |                             |
 | CLI Linux             | :bulb:                      |
 | Git & GitHub          | :bulb:                      |
 
@@ -49,11 +50,11 @@ I am following the [Full Stack JavaScript](https://www.theodinproject.com/paths/
 - [x] CSS Foundations
 - [x] Flexbox
   - [x] Project: [Landing Page](https://github.com/BenzzoKrugger/odin-landing-page)
-- [ ] JavaScript Basics
+- [x] JavaScript Basics
   - [x] Project: [Rock Paper Scissors](https://github.com/BenzzoKrugger/odin-rock-paper-scissors)
   - [x] Project: [Etch-a-Sketch](https://github.com/BenzzoKrugger/odin-etch-a-sketch)
-  - [ ] Project: [Calculator](url)
-- [ ] Conclusion
+  - [x] Project: [Calculator](https://github.com/BenzzoKrugger/odin-calculator)
+- [x] Conclusion
 
 #### [Intermediate HTML and CSS](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css)
 
@@ -64,7 +65,7 @@ I am following the [Full Stack JavaScript](https://www.theodinproject.com/paths/
 - [ ] Grid
   - [ ] Project: [Admin Dashboard](url)
 
-#### [JavaScript](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css)
+#### [JavaScript / Alpine](https://www.theodinproject.com/paths/full-stack-javascript/courses/intermediate-html-and-css)
 
 - [ ] Introduction
 - [ ] Organizing Your JavaScript Code
@@ -93,45 +94,6 @@ I am following the [Full Stack JavaScript](https://www.theodinproject.com/paths/
 - [ ] Accessibility
 - [ ] Responsive Design
   - [ ] Project: Homepage
-
-#### [React](https://www.theodinproject.com/paths/full-stack-javascript/courses/react)
-
-- [ ] Introduction
-- [ ] Getting Started with React
-- [ ] States and Effects
-  - [ ] Project: CV Application
-  - [ ] Project: Memory Card
-- [ ] Class Components
-- [ ] React Testing
-- [ ] The React Ecosystem
-  - [ ] Project: Shopping Card
-- [ ] More React Concepts
-- [ ] Conclusion
-
-#### [Databases](https://www.theodinproject.com/paths/full-stack-javascript/courses/databases)
-
-- [ ] Databases
-  - [ ] Project: SQL Zoo
-
-#### [NodeJS](https://www.theodinproject.com/paths/full-stack-javascript/courses/nodejs)
-
-- [ ] Introduction to NodeJS
-  - [ ] Project: Basic Informational Site
-- [ ] Express
-  - [ ] Project: Mini Message Board
-  - [ ] Project: Inventory Application
-- [ ] Authentication
-  - [ ] Project: Members Only
-- [ ] ORMs
-  - [ ] Project: File Uploader
-- [ ] APIs
-  - [ ] Project: Blog API
-- [ ] Testing Express
-- [ ] Full Stack Projects
-  - [ ] Project: Where's Waldo (A Photo Tagging App)
-  - [ ] Project: Messaging App
-- [ ] FINAL PROJECT
-  - [ ] Project: Odin-Book
 
 
 ## Coding Challenges
@@ -170,6 +132,13 @@ I am following the [Frontend Mentor](https://www.frontendmentor.io/) to build ad
 - [ ] Challenge: [Order summary card](url)
 - [ ] Challenge: [Stats preview card component](url)
 - [ ] Challenge: [Tech book club landing page](url)
+
+
+## Other personal project
+
+#### [ToDo App](url)
+
+- backend driven app to learn FastAPI and HTMX
 
 ## Note
 
